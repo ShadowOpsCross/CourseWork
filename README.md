@@ -11,8 +11,7 @@
 | `Courier.UI` | Console App | Меню, валідація вводу, вивід; посилається на `Courier.Core` |
 | `Courier.Tests` | xUnit | 45 модульних тестів бізнес-логіки |
 
-Додатково: `docs/Poyasnyuvalna_zapyska_variant25.docx` (пояснювальна записка), `docs/screenshots/` (скріншоти),
-`docs/ZAHYST_shpargalka.md` (питання до захисту).
+Додатково: `Звіт.docx` (Звіт роботи)
 
 ## Збірка та запуск
 
@@ -39,10 +38,3 @@ dotnet run --project Courier.UI -- C:\tmp\my.json   # власний файл д
 `Вартість = (50 + розрахункова_вага × 12 + км × 0,6) × множник`, множник: Standard 1,0 / Express 1,5.
 Розрахункова вага = max(фактична, Д×Ш×В / 5000). Ліміт ваги — 30 кг.
 Відстані між містами в `AddressDirectory` — орієнтовні автомобільні.
-
-## Відтворення скріншотів і записки
-
-```
-powershell -ExecutionPolicy Bypass -File docs\tools\make-screenshots.ps1
-powershell -ExecutionPolicy Bypass -File docs\tools\build-docx.ps1
-```
