@@ -1,0 +1,11 @@
+C:\Users\kurch\courseforars\CourierDelivery\Courier.Core\bin\Debug\net8.0\Courier.Core.deps.json
+C:\Users\kurch\courseforars\CourierDelivery\Courier.Core\bin\Debug\net8.0\Courier.Core.dll
+C:\Users\kurch\courseforars\CourierDelivery\Courier.Core\bin\Debug\net8.0\Courier.Core.pdb
+C:\Users\kurch\courseforars\CourierDelivery\Courier.Core\obj\Debug\net8.0\Courier.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurch\courseforars\CourierDelivery\Courier.Core\obj\Debug\net8.0\Courier.Core.AssemblyInfoInputs.cache
+C:\Users\kurch\courseforars\CourierDelivery\Courier.Core\obj\Debug\net8.0\Courier.Core.AssemblyInfo.cs
+C:\Users\kurch\courseforars\CourierDelivery\Courier.Core\obj\Debug\net8.0\Courier.Core.csproj.CoreCompileInputs.cache
+C:\Users\kurch\courseforars\CourierDelivery\Courier.Core\obj\Debug\net8.0\Courier.Core.dll
+C:\Users\kurch\courseforars\CourierDelivery\Courier.Core\obj\Debug\net8.0\refint\Courier.Core.dll
+C:\Users\kurch\courseforars\CourierDelivery\Courier.Core\obj\Debug\net8.0\Courier.Core.pdb
+C:\Users\kurch\courseforars\CourierDelivery\Courier.Core\obj\Debug\net8.0\ref\Courier.Core.dll
